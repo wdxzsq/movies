@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">Movies</string>
+    <string name="app_name">WorldCinema</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="repassword">Повторите пароль</string>
+    <string name="zareg">Зарегистрироваться</string>
+    <string name="have">У меня уже есть аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="lastName">Фамилия</string>
 
 
 </resources>

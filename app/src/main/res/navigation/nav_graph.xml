@@ -26,7 +26,7 @@
     <fragment
         android:id="@+id/launchFragment"
         android:name="com.example.movies.view.ui.launch.LaunchFragment"
-        tools:layout="@layout/fragment_launch" >
+        tools:layout="@layout/fragment_launch">
         <action
             android:id="@+id/action_launchFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
